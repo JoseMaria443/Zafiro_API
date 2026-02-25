@@ -1,0 +1,1 @@
+La API sera diseñada con estructura hexagonal, servira como conexión entre la API de google y el algoritmo.
